@@ -21,3 +21,5 @@ Inventory Me does not use third-party analytics, advertising, or tracking servic
 If you have questions about this privacy policy, you can contact:
 
 app.inventory.me@gmail.com
+
+Last updated: January 2026
